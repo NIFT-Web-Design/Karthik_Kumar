@@ -4,6 +4,14 @@
 /* heading blue colour:#0a465b */
 
 
+/* ////////////alternate method//////////// */
+/* header{
+  background-color: black; */
+  /* display: flex;
+  flex-flow: row;
+  align-items: center;
+  justify-content: center; */
+/* } */
 
 /* //////////global font/////////// */
 body{
