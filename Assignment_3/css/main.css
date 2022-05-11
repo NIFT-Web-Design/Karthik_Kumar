@@ -1,0 +1,194 @@
+
+
+
+
+
+body {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+header{
+  background-color: lightgrey;
+  padding: 10px 150px;
+  position: relative;
+  box-shadow: 0px 3px 8px 0px rgb(105 105 105);
+}
+
+nav {
+  display: inline-block;
+  vertical-align: top;
+  float: right;
+  padding-top: 30px;
+
+}
+
+nav a {
+  text-transform: uppercase;
+  font-weight: 800;
+  font-size: 16px;
+  color: black;
+  text-decoration: none;
+  padding: 5px 40px;
+  transition: all .2s;
+}
+
+nav a#one {
+  background-color: #FFFFFF;
+  border-radius: 4px;
+  color: #0047ab;
+}
+
+a:hover {
+  color: #d16002;
+}
+
+#white2{
+  height: 50px;
+  background-image: url(/Users/karthikkumar/Documents/GitHub/Karthik_Kumar/Assignment_3/my_project/poster%201-01.jpg);
+  text-align: center;
+  padding: 0px 500px;
+  padding-top: 100px;
+  padding-bottom: 200px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  color: white;
+  font-weight: 400;
+  text-shadow: 3px 3px 2px black;
+  padding-bottom: 20px;
+}
+
+#white3{
+  color: white;
+  font-size: 18px;
+  line-height: 1.1;
+}
+
+h2{
+text-align: center;
+padding: 40px 100px;
+font-size: 40px;
+font-weight: 100;
+text-align: center;
+background-position: center;
+background-repeat: no-repeat;
+color: white;
+background-color: #0047ab;
+margin: 3px 0;
+}
+
+article{
+font-weight:600;
+text-transform: uppercase;
+
+}
+
+.white31{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    gap: 210px;
+
+}
+
+#white4 p{
+  padding-left: 130px;
+  padding-top: 20px;
+}
+
+#white5  {
+  padding-right: : 10px;
+}
+#white5 p {
+  padding-left: 125px;
+  padding-top: 20px;
+}
+
+#white6 p {
+  padding-left: 70px;
+  padding-top: 20px;
+}
+
+.yellow2{
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+  gap: 210px;
+  margin-top: 70px;
+}
+
+#white8{
+  margin-top: 60px;
+  padding-left:40px;
+}
+
+#white9{
+  margin-top: 40px;
+  padding-left:30px;
+}
+
+#white7 p{
+  padding-left: 70px;
+  padding-top: 10px;
+}
+
+#white8 p{
+  padding-left: 100px;
+  padding-top:90px;
+}
+
+#white9 p{
+  padding-left: 120px;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+
+#white10{
+  color: white;
+  font-size: 18px;
+  padding: 100px 250px;
+  background-color: grey;
+  text-align: center;
+  line-height:1.6
+}
+
+#last{
+  display: flex;
+  flex-flow: row;
+  background-color: black;
+  color:white;
+  padding-bottom: 30px;
+
+}
+h3{
+  font-size:50px;
+  font-weight: 600;
+  padding: 30px;
+  padding-left: 100px;
+  background-color: black;
+  color: white;
+}
+
+#lastone {
+   text-align: center;
+   padding-left: 100px;
+}
+#last p{
+   text-align: center;
+   padding: 200px;
+   padding-top: 100px;
+   line-height:2;
+   justify-content: center;
+}
+
+footer{
+text-align: center;
+background-color: lightgrey;
+padding: 20px;
+}
